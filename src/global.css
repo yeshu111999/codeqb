@@ -1,0 +1,73 @@
+@font-face {
+	font-family: "Inter";
+	src: url("/fonts/Inter-Regular.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap");
+
+* {
+	font-family: "Inter";
+}
+
+:root {
+	font-family: "Inter";
+}
+
+.svelteui-InputWrapper-root .svelteui-InputWrapper-label {
+	color: var(--primary-text-color) !important;
+}
+
+.buttons-wrapper .svelteui-Button-root p {
+	color: var(--use-template-btn-text-color) !important;
+}
+
+.svelteui-InputWrapper-root .svelteui-Input-root .svelteui-Input-input {
+	background-color: var(--text-input-bg-color) !important;
+	border: 1px solid var(--text-input-border-color);
+	color: var(--primary-text-color);
+}
+
+.wrapper .svelteui-InputWrapper-root .svelteui-Input-root .svelteui-Input-input {
+	background-color: #fff !important;
+	border: 1px solid #605f5f !important;
+	color: #000 !important;
+}
+
+.wrapper .svelteui-InputWrapper-root .svelteui-InputWrapper-label,
+.wrapper .svelteui-Tab-label {
+	color: #000 !important;
+}
+
+.buttons-wrapper .svelteui-Button-root {
+	color: var(--use-template-btn-text-color);
+}
+
+.footer .svelteui-Button-root {
+	color: var(--primary-btn-color2);
+}
+
+.buttons-wrapper .svelteui-Button-root {
+	color: var(--primary-btn-color2);
+}
+
+.svelteui-Tabs-wrapper {
+	border-bottom: 2px solid var(--primary-border-color) !important;
+}
+
+.svelteui-Tab-label {
+	color: var(--tabs-label-color);
+}
+
+.active .svelteui-Tab-label {
+	color: var(--primary-text-color);
+}
+
+.goog-te-combo {
+	color: var(--primary-text-color) !important;
+}
+
+*,
+::before,
+::after {
+	border: none;
+}

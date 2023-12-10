@@ -1,0 +1,13 @@
+:root {
+	--primary-btn-color: rgba(0, 55, 198, 0.8);
+	--primary-btn-text-color: white;
+	--primary-btn-disabled-color: rgba(0, 55, 198, 0.8);
+
+	--primary-text-color: white;
+	--primary-background-color: black;
+	--primary-text-color: white;
+
+	--secondary-btn-color: pink;
+	--secondary-btn-text-color: black;
+	--test-color: "green";
+}

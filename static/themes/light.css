@@ -1,0 +1,46 @@
+:root {
+	--primary-btn-color: black;
+	--primary-btn-color2: white;
+	--primary-btn-text-color: white;
+	--primary-btn-disabled-color: gray;
+
+	--primary-text-color: black;
+	--secondary-text-color: black;
+
+	--primary-background-color: white;
+	--secondary-background-color: white;
+
+	--primary-box-shadow-color: #e1e1e1;
+	--primary-border-color: #e1e1e1;
+	--profile-bg-color: #ececec;
+	--secondary-card-color: rgba(255, 255, 255, 0.5);
+	--description-color: rgba(0, 0, 0, 0.7);
+
+	--secondary-btn-color: gray;
+	--secondary-btn-text-color: black;
+
+	--new-search-btn-color: black;
+	--new-search-btn-text-color: white;
+	--primary-border: 1px solid #e1e1e1;
+	--country-code-border: 1px solid #e1e1e1;
+
+	--use-template-btn-color: black;
+	--use-template-btn-text-color: white;
+
+	--user-chat-bg-color: #fff;
+	--user-chat-border-color: #e1e1e1;
+	--assistant-chat-bg-color: linear-gradient(0deg,
+			rgba(255, 255, 255, 0.95) 0%,
+			rgba(255, 255, 255, 0.95) 100%),
+		#000;
+
+	--user-chat-txt-color: white;
+	--assistant-chat-txt-color: white;
+	--text-input-bg-color: white;
+	--text-input-border-color: #e1e1e1;
+	--text-input-placeholder: #929292;
+
+	--tabs-bottom-border-color: rgba(221, 221, 221, 1);
+	--tabs-label-color: rgba(0, 0, 0, 0.55);
+	--chat-action-color: #323232;
+}
